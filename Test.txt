@@ -2,3 +2,6 @@ New test.txt
 Add file
 new direct "D/temp"
 X=1; Y=1;
+
+Autor: Igor Tokarev
+My content
